@@ -2,6 +2,6 @@
 ## Title: HelloWorld
 ## Notes: Prints "Hello, World" to the chat.
 ## Author: YourName
-## Version: 0.0.3
+## Version: 0.0.4
 
 HelloWorld.lua
