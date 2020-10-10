@@ -2,7 +2,7 @@ SLASH_HELLO1 = "/helloworld"
 SLASH_HELLO2 = "/msg"
 
 local function showGreeting(name)
-    local greeting = "Hello, " .. name .. "!"
+    local greeting = "Hello, " .. name .. "!!"
 
     message(greeting)
 end
